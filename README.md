@@ -1,5 +1,5 @@
 # US-11516295
-Public IP for US Patent 11516295 (Inventor, Issued to State Farm)
+Public IP for US Patent 11516295 (Inventor, Issued to State Farm on Nov. 29 2022)
 
 ## Links
 https://patents.google.com/patent/US11516295B1
