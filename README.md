@@ -1,5 +1,5 @@
 # US-11516295
-Public IP for US Patent 11516295 (State Farm owned)
+Public IP for US Patent 11516295 (Inventor, State Farm IP)
 
 ## Links
 https://patents.google.com/patent/US11516295B1
