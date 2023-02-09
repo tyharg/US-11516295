@@ -9,10 +9,24 @@ https://patentimages.storage.googleapis.com/8c/30/53/5476079dfa36af/US11516295B1
 
 <img width="730" alt="Cover Page" src="https://user-images.githubusercontent.com/2886930/217704301-2fcf4999-bb26-4a51-b329-059f27e8ff13.png">
 
-## Plaintext
+## Contents
 
 ### RELATED APPLICATIONS
 This application claims priority to U.S. Provisional Application 62/944,821, filed Dec. 6, 2019, titled “USING CONTEXTUAL INFORMATION FOR VEHICLE TRIP LOSS RISK ASSESSMENT SCORING,” the entirety of which is contained herein by reference.
+
+### Abstract
+A technique is provided for determining a loss risk assessment score for a vehicle trip. The technique includes, at a vehicle, a computing device receiving first information indicative of operation of the vehicle. The technique also includes, at the vehicle, the computing device receiving second information indicative of an environment at a particular location and time. The computing device correlates the first information and the second information to generate a data set. The technique also includes determining a score for the vehicle trip based at least in part upon the generated data set.
+
+### Classifications
+H04L67/12: Protocols specially adapted for proprietary or special-purpose networking environments, e.g. medical networks, sensor networks, networks in vehicles or remote metering networks
+
+### Images
+[Figure 1](https://patentimages.storage.googleapis.com/08/65/3a/f10c47e5412132/US11516295-20221129-D00001.png)
+[Figure 2](https://patentimages.storage.googleapis.com/2b/35/c8/e1981ce94a7cc6/US11516295-20221129-D00002.png)
+[Figure 3](https://patentimages.storage.googleapis.com/5e/12/e9/9c366aad5e62c7/US11516295-20221129-D00003.png)
+[Figure 4](https://patentimages.storage.googleapis.com/d1/f9/22/4abdae6e77c19c/US11516295-20221129-D00004.png)
+[Figure 5](https://patentimages.storage.googleapis.com/bd/ff/d1/6dababfaf377c9/US11516295-20221129-D00005.png)
+
 ### BACKGROUND
 Organizations such as insurance companies have an interest in obtaining information from which they can determine insurance premiums that reward good driving habits. For example, for an automobile insurance company, demographic information of a driver (such as residence location, age, years of driving experience and moving violation history) has been used as input to loss risk assessment models. More individualized information about the driver and how she drives can help to reward good driving habits. For a driver whose activity indicates that she drives in a manner that is less likely to result in loss for the automobile insurance company, this may result in a lower automobile insurance premium for the driver than for other drivers with similar demographic attributes.
 ### SUMMARY
