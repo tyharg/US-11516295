@@ -11,14 +11,14 @@ https://patentimages.storage.googleapis.com/8c/30/53/5476079dfa36af/US11516295B1
 
 ## Contents
 
+### RELATED APPLICATIONS
+This application claims priority to U.S. Provisional Application 62/944,821, filed Dec. 6, 2019, titled “USING CONTEXTUAL INFORMATION FOR VEHICLE TRIP LOSS RISK ASSESSMENT SCORING,” the entirety of which is contained herein by reference.
+
 ### Inventors
-Krishna NemmaniZebediah, Robert Black, Corey Casmedes, Hoang Dang, Yuncheng Gao, Tyler Hargreaves, John Steven Kirtzic, Zongzhe Li, Einar Longva, Victor Mao, Trac Nguyen, Sivarama Kirshna Panguluri, Dalton Sherer, Edward Yang
+Krishna Nemmani, Zebediah, Robert Black, Corey Casmedes, Hoang Dang, Yuncheng Gao, Tyler Hargreaves, John Steven Kirtzic, Zongzhe Li, Einar Longva, Victor Mao, Trac Nguyen, Sivarama Kirshna Panguluri, Dalton Sherer, Edward Yang
 
 ### Current Assignee
 State Farm Mutual Automobile Insurance Co
-
-### RELATED APPLICATIONS
-This application claims priority to U.S. Provisional Application 62/944,821, filed Dec. 6, 2019, titled “USING CONTEXTUAL INFORMATION FOR VEHICLE TRIP LOSS RISK ASSESSMENT SCORING,” the entirety of which is contained herein by reference.
 
 ### Abstract
 A technique is provided for determining a loss risk assessment score for a vehicle trip. The technique includes, at a vehicle, a computing device receiving first information indicative of operation of the vehicle. The technique also includes, at the vehicle, the computing device receiving second information indicative of an environment at a particular location and time. The computing device correlates the first information and the second information to generate a data set. The technique also includes determining a score for the vehicle trip based at least in part upon the generated data set.
