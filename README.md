@@ -5,6 +5,10 @@ Public IP for US Patent 11516295 (Inventor, Issued to State Farm on Nov. 29 2022
 https://patents.google.com/patent/US11516295B1
 https://patentimages.storage.googleapis.com/8c/30/53/5476079dfa36af/US11516295B1.pdf
 
+## Cover Page
+
+<img width="730" alt="Cover Page" src="https://user-images.githubusercontent.com/2886930/217704301-2fcf4999-bb26-4a51-b329-059f27e8ff13.png">
+
 ## Plaintext
 
 ### RELATED APPLICATIONS
