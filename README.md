@@ -11,6 +11,12 @@ https://patentimages.storage.googleapis.com/8c/30/53/5476079dfa36af/US11516295B1
 
 ## Contents
 
+### Inventors
+Krishna NemmaniZebediah, Robert Black, Corey Casmedes, Hoang Dang, Yuncheng Gao, Tyler Hargreaves, John Steven Kirtzic, Zongzhe Li, Einar Longva, Victor Mao, Trac Nguyen, Sivarama Kirshna Panguluri, Dalton Sherer, Edward Yang
+
+### Current Assignee
+State Farm Mutual Automobile Insurance Co
+
 ### RELATED APPLICATIONS
 This application claims priority to U.S. Provisional Application 62/944,821, filed Dec. 6, 2019, titled “USING CONTEXTUAL INFORMATION FOR VEHICLE TRIP LOSS RISK ASSESSMENT SCORING,” the entirety of which is contained herein by reference.
 
